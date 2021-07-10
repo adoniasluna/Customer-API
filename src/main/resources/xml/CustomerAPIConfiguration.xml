@@ -1,0 +1,7 @@
+<ApiCustomerConfiguration>
+    <connection>
+        <url>jdbc:mysql://localhost:3306</url>
+        <user>test_user</user>
+        <password>1234</password>
+    </connection>
+</ApiCustomerConfiguration>
