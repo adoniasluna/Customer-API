@@ -36,5 +36,11 @@ $ gradlew FlywayValidate
 $ gradlew FlywayMigrate
 ```
 
+## Execution
+Once executed, the API will be running on:
+```
+localhost:4567.
+```
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
